@@ -1,0 +1,12 @@
+SMAP
+regdata_jsp.java
+JSP
+*S JSP
+*F
++ 0 regdata.jsp
+regdata.jsp
+*L
+5,14:48
+19,41:63
+59,8:104
+*E
